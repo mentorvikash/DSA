@@ -1,0 +1,25 @@
+1. Print Hello World.
+2. Compair two number.
+3. Check given input is uppercase lowercase digit or specile character.
+4. Print number upto n
+5. Print sum of number upto n.
+6. Check given number is odd or even.
+7. Print sum of number upto n even number.
+8. Print sum of number upto n odd number.
+9. Print sum of all number divisible by 7 upto n.
+10. Create farenheight to celcius converter.
+11. Find given number is prime or not.
+12. Find all prime number upto n.
+13. Create a pattern
+****
+****
+****
+****
+14. Create a pattern
+111
+222
+333
+14. Create a pattern
+1234
+1234
+1234
